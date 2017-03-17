@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rails server -p 3000 -d
+rails server -p 80 -d
